@@ -9,7 +9,7 @@
 ![Static Badge](https://img.shields.io/badge/PyTorch-FCAE1E?style=flat&logo=pytorch&logoColor=white/></a>&nbsp)
 ![Static Badge](https://img.shields.io/badge/MySQL-1134A6?style=flat&logo=mysql&logoColor=white/></a>&nbsp)
 
-![Static Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white/></a>&nbsp)
+![Static Badge](https://img.shields.io/badge/Docker-1C2951?style=flat&logo=docker&logoColor=white/></a>&nbsp)
 
 
 
