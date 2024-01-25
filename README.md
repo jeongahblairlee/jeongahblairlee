@@ -2,4 +2,4 @@
 
 
 🛠 Tech Stack 🛠
-<img src="https://img.shields.io/badge/R-#276DC3?style=flat&logo=R&logoColor=white"/></a>
+("https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white")
