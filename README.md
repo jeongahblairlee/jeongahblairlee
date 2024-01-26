@@ -21,7 +21,6 @@
 
 Hey there! I'm Jeongah, a passionate bioinformatician on a journey through the fascinating realms of genomics, data, and computational biology. 🚀
 
-In this digital space, I unravel the mysteries encoded in the DNA sequences, explore the vast landscapes of biological data, and navigate the intricate pathways of bioinformatics. From deciphering the language of genes to unlocking the secrets hidden in the genomes, join me in the adventure of understanding life's blueprint through the lens of code and algorithms.
 
 🔍 What to Expect:
 
