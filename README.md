@@ -24,10 +24,10 @@ Hey there! I'm Jeongah, a passionate bioinformatician on a journey through the f
 
 🔍 What to Expect:
 
-🧠 Insights into cutting-edge bioinformatics techniques
-🌱 Explorations in genomics, proteomics, and beyond
-💻 Code repositories for bioinformatic tools and projects
-📚 Resources and tutorials for fellow enthusiasts
+🧠 Insights into cutting-edge bioinformatics techniques <br />
+🌱 Explorations in genomics, proteomics, and beyond <br />
+💻 Code repositories for bioinformatic tools and projects <br />
+📚 Resources and tutorials for fellow enthusiasts <br />
 Whether you're a seasoned bioinformatician or just starting your journey, let's embark on this scientific odyssey together! Feel free to explore the repositories, contribute ideas, and let's push the boundaries of knowledge in the world of bioinformatics.
 
 🔬 About Me:
