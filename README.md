@@ -28,12 +28,11 @@ Hey there! I'm Jeongah, a passionate bioinformatician on a journey through the f
 🌱 Explorations in genomics, proteomics, and beyond <br />
 💻 Code repositories for bioinformatic tools and projects <br />
 📚 Resources and tutorials for fellow enthusiasts <br />
-Whether you're a seasoned bioinformatician or just starting your journey, let's embark on this scientific odyssey together! Feel free to explore the repositories, contribute ideas, and let's push the boundaries of knowledge in the world of bioinformatics.
 
 🔬 About Me:
 I'm Jeongah, a bioinformatician with a passion for unraveling the complexities of life using computational tools. With a background in bioinformatics and clinical research pharmaceutical industries, I bring a unique perspective to the intersection of biology and technology.
 
-🌱 Why Bioinformatics?
+🧬 Why Bioinformatics?
 Bioinformatics is more than just data analysis; it's a gateway to understanding the fundamental building blocks of life. It's the art of turning biological questions into computational challenges and transforming data into meaningful insights. Join me in discovering the elegance and intricacy of the biological world through the lens of code.
 
 Let's code the language of life! 🖥️🧬
