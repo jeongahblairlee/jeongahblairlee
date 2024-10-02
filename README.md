@@ -1,15 +1,16 @@
 
 <h2><strong>🧬 Welcome to my Bioinformatics Wonderland! 🌐</strong></h2>
 
-<h3><strong>Hi, I’m Jeongah Lee 👋</strong></h3>
+<h2><strong>Hi, I’m Jeongah Lee 👋</strong></h2>
 
-<p>I am a passionate bioinformatician exploring the fascinating world of computational biology, specializing in genomics and multi-omics data. 🚀 With a background in biology and bioinformatics, I’m equally passionate about software development. I love combining my expertise in bioinformatics analysis and software engineering to create powerful, efficient applications.</p>
+<h3>I am a passionate bioinformatician exploring the fascinating world of computational biology, specializing in genomics and multi-omics data. 🚀</h3> 
+<h3>With a background in biology and bioinformatics, I’m equally passionate about software development. I love combining my expertise in bioinformatics analysis and software engineering to create powerful, efficient applications.</h3>
 
 <p> 💻 I’m currently working on omics data analysis and genomics professionally.</p>
 <p> 💡 I’m focusing on developing bioinformatics software and pipelines. </p>
 <p> 💝 Fun fact: I love statistics!</p>
 
-<p>Let’s code the language of life! 🖥️🧬</p>
+<h3>Let’s code the language of life! 🖥️🧬</h3>
 
 
    <br/>
