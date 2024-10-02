@@ -14,7 +14,7 @@ Let’s code the language of life! 🖥️🧬
 
    <br/>
    <br/>
-#### :clipboard: Tech Stack 🛠
+:clipboard: Tech Stack 🛠
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
