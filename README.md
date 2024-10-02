@@ -1,5 +1,5 @@
 
-<h1><strong>🧬 Welcome to my Bioinformatics Wonderland! 🌐</strong></h1>
+<h1>🧬 Welcome to my Bioinformatics Wonderland! 🌐</h1>
 
 <h1><strong>Hi, I’m Jeongah Lee 👋</strong></h1>
 
