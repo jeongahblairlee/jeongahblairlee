@@ -10,11 +10,9 @@
 <p>   💡 I’m focusing on developing bioinformatics software and pipelines. </p>
 <p>   💝 Fun fact: I love statistics!</p>
 <br/>
-<h3>Let’s code the language of life! 🖥️🧬</h3>
+<h4>Let’s code the language of life! 🖥️🧬</h4>
 
-
-   <br/>
-   <br/>
+<br/>
 <h3>:clipboard: Tech Stack 🛠</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
