@@ -10,13 +10,12 @@
 <p>   💡 I’m focusing on developing bioinformatics software and pipelines. </p>
 <p>   💝 Fun fact: I love statistics!</p>
 <br/>
-<br/>
 <h3>Let’s code the language of life! 🖥️🧬</h3>
 
 
    <br/>
    <br/>
-:clipboard: Tech Stack 🛠
+<h3>:clipboard: Tech Stack 🛠</h3>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
