@@ -1,7 +1,7 @@
 
 <h2><strong>🧬 Welcome to my Bioinformatics Wonderland! 🌐</strong></h2>
 
-<h3><strong>Hi, I’m Jeongah Lee 👋</strong></3>
+<h3><strong>Hi, I’m Jeongah Lee 👋</strong></h3>
 
 <p>I am a passionate bioinformatician exploring the fascinating world of computational biology, specializing in genomics and multi-omics data. 🚀 With a background in biology and bioinformatics, I’m equally passionate about software development. I love combining my expertise in bioinformatics analysis and software engineering to create powerful, efficient applications.</p>
 
